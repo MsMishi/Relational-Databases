@@ -9,22 +9,22 @@ These are the basic specs for Relational Databases, broken into 5 stages. If you
 
 Setup repo, complete a Khan Academy project, and install PostgreSQL. For instructions on installing PostgreSQL, see the guides in [Resources > Guides](#guides).
 
-- [ ] Artifact repo is created on GitHub.
-- [ ] The artifact repo is properly licensed, preferably with the [MIT license][mit-license].
-- [ ] Solution SQL for the Khan Academy project: [Design a store database][ka-proj-store-db] is added to a file in your repo named `store_db.sql`
-- [ ] SQL in `store_db.sql` has consistent indentation.
-- [ ] All the SQL keywords in `store_db.sql` are written in ALL CAPS.
-- [ ] PostgreSQL is installed on your computer with Homebrew.
+- [x] Artifact repo is created on GitHub.
+- [x] The artifact repo is properly licensed, preferably with the [MIT license][mit-license].
+- [x] Solution SQL for the Khan Academy project: [Design a store database][ka-proj-store-db] is added to a file in your repo named `store_db.sql`
+- [x] SQL in `store_db.sql` has consistent indentation.
+- [x] All the SQL keywords in `store_db.sql` are written in ALL CAPS.
+- [x] PostgreSQL is installed on your computer with Homebrew.
 
 #### Stage 2
 
 Complete another Khan Academy project, use the SQL Designer tool, and install the [Postico app][postico] (this is recommended, but not required).
 
-- [ ] Solution SQL for the Khan Academy project: [Data dig][ka-proj-data-dig] is added to a file in your repo named `data_dig.sql`
-- [ ] SQL in `data_dig.sql` has consistent indentation.
-- [ ] All the SQL keywords in `data_dig.sql` are written in ALL CAPS.
-- [ ] Schema diagrams are created for both the "Store database" and "Data dig" database using the [SQL Designer tool][sql-designer].
-- [ ] Screenshots of each schema diagram are added to repo as `store_db_schema.png` and `data_dig_schema.png`, respectively.
+- [x] Solution SQL for the Khan Academy project: [Data dig][ka-proj-data-dig] is added to a file in your repo named `data_dig.sql`
+- [x] SQL in `data_dig.sql` has consistent indentation.
+- [x] All the SQL keywords in `data_dig.sql` are written in ALL CAPS.
+- [x] Schema diagrams are created for both the "Store database" and "Data dig" database using the [SQL Designer tool][sql-designer].
+- [x] Screenshots of each schema diagram are added to repo as `store_db_schema.png` and `data_dig_schema.png`, respectively.
 
 #### Stage 3
 
@@ -32,13 +32,13 @@ Create schemas and mock data for the "Music Player" app from the Init 3 goal. Th
 
 ##### Music Player
 
-- [ ] Folder `music-player/` exists in your repo.
-- [ ] Database schema SQL (using PostgreSQL syntax) for the Music Player from [Init 3: Hello, Web Servers][hello-web-servers] is included in the file `music-player/schema.sql`.
-- [ ] Music Player schema includes table and appropriate columns for Artists
-- [ ] Music Player schema includes table and appropriate columns for Albums
-- [ ] Music Player schema includes table and appropriate columns for Songs
-- [ ] Music Player schema includes table and appropriate columns for Playlists
-- [ ] Mock data is generated for the Music Player and added to the file `music-player/mock_data.sql`.
+- [x] Folder `music-player/` exists in your repo.
+- [x] Database schema SQL (using PostgreSQL syntax) for the Music Player from [Init 3: Hello, Web Servers][hello-web-servers] is included in the file `music-player/schema.sql`.
+- [x] Music Player schema includes table and appropriate columns for Artists
+- [x] Music Player schema includes table and appropriate columns for Albums
+- [x] Music Player schema includes table and appropriate columns for Songs
+- [x] Music Player schema includes table and appropriate columns for Playlists
+- [x] Mock data is generated for the Music Player and added to the file `music-player/mock_data.sql`.
 - [ ] Sample queries against the Music Player database are added to the file `music-player/queries.sql`.
 - [ ] Queries against the Music Player use the `WHERE` keyword (at least once)
 - [ ] Queries against the Music Player use the `LIMIT` keyword (at least once)
@@ -53,9 +53,9 @@ Create schemas and mock data for the "Music Player" app from the Init 3 goal. Th
 
 Create a database for a fictional bike shop. Use the [Table Schema for Bike Shop](#table-schema-for-bike-shop) provided.
 
-- [ ] Folder `bike-shop/` exists in your repo.
-- [ ] Database schema SQL (using PostgreSQL syntax) for the Bike Shop is included in the file `bike-shop/schema.sql`.
-- [ ] Bike Shop schema matches the specifications in [Table Schema for Bike Shop](#table-schema-for-bike-shop).
+- [x] Folder `bike-shop/` exists in your repo.
+- [x] Database schema SQL (using PostgreSQL syntax) for the Bike Shop is included in the file `bike-shop/schema.sql`.
+- [x] Bike Shop schema matches the specifications in [Table Schema for Bike Shop](#table-schema-for-bike-shop).
 
 #### Stage 4
 

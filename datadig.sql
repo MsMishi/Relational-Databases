@@ -48,9 +48,10 @@ INSERT INTO Marvels VALUES(24, "Venon", 78, "Neutral", "Male", 1.90, 118, "EUA",
 INSERT INTO Marvels VALUES(25, "Juggernaut", 76, "Neutral", "Male", 2.87, 862, "EUA", 2, 7, 2, 7, 1, 4);
 INSERT INTO Marvels VALUES(26, "Professor X", 58, "Good", "Male", 1.83, 86, "EUA", 5, 2, 2, 2, 5, 3);
 
-SELECT COUNT("Female") AS heroines FROM marvels;
+/*  Information about heroines */
+SELECT * COUNT("Female") AS heroines FROM marvels;
 
-/*What are average, max, and min values in the data? */
+/* */
 SELECT AVG(intelligence),
 MIN(intelligence),
 MAX(intelligence)
