@@ -1,0 +1,22 @@
+{
+  "name": "relational-databases",
+  "version": "1.4.0",
+  "description": "Init 4: Relational-Databases",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "db:create": "createdb yourdatabase",
+    "db:drop": "dropdb yourdatabase",
+    "db:setup": "psql yourdatabase < ./schema.sql"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MsMishi/Relational-Databases.git"
+  },
+  "author": "Mishi Charles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MsMishi/Relational-Databases/issues"
+  },
+  "homepage": "https://github.com/MsMishi/Relational-Databases#readme"
+}
