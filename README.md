@@ -39,15 +39,15 @@ Create schemas and mock data for the "Music Player" app from the Init 3 goal. Th
 - [x] Music Player schema includes table and appropriate columns for Songs
 - [x] Music Player schema includes table and appropriate columns for Playlists
 - [x] Mock data is generated for the Music Player and added to the file `music-player/mock_data.sql`.
-- [ ] Sample queries against the Music Player database are added to the file `music-player/queries.sql`.
-- [ ] Queries against the Music Player use the `WHERE` keyword (at least once)
-- [ ] Queries against the Music Player use the `LIMIT` keyword (at least once)
-- [ ] Queries against the Music Player use the `ORDER BY` keyword (at least once)
-- [ ] Queries against the Music Player use the `LIKE` keyword (at least once)
-- [ ] Queries against the Music Player use the `AND/OR` keyword (at least once)
-- [ ] Queries against the Music Player use the `HAVING` keyword (at least once)
-- [ ] Queries against the Music Player use the `IN` keyword (at least once)
-- [ ] Queries against the Music Player use the `JOIN` keyword (at least once)
+- [x] Sample queries against the Music Player database are added to the file `music-player/queries.sql`.
+- [x] Queries against the Music Player use the `WHERE` keyword (at least once)
+- [x] Queries against the Music Player use the `LIMIT` keyword (at least once)
+- [x] Queries against the Music Player use the `ORDER BY` keyword (at least once)
+- [x] Queries against the Music Player use the `LIKE` keyword (at least once)
+- [x] Queries against the Music Player use the `AND/OR` keyword (at least once)
+- [x] Queries against the Music Player use the `HAVING` keyword (at least once)
+- [x] Queries against the Music Player use the `IN` keyword (at least once)
+- [x] Queries against the Music Player use the `JOIN` keyword (at least once)
 
 ##### Bike Shop
 
