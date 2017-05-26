@@ -68,12 +68,12 @@ Complete the final Khan Academy project. Design and create schemas for the "Boss
 - [ ] Database schema SQL (using PostgreSQL syntax) for the Bossggle game from [Init 1: Bossggle Word Game][bossggle-word-game] is included in the file `bossggle/schema.sql`.
 
 Bossggle schema supports the following features (i.e. you _could_ write SQL to show this data):
-- [ ] List all words guessed
-- [ ] Count all correct words guessed
-- [ ] Count all incorrect words guessed
-- [ ] List all words guessed and their scores
-- [ ] Get sum of scores for all words guessed
-- [ ] Show 10 most recently guessed words
+- [x] List all words guessed
+- [x] Count all correct words guessed
+- [x] Count all incorrect words guessed
+- [x] List all words guessed and their scores
+- [x] Get sum of scores for all words guessed
+- [x] Show 10 most recently guessed words
 
 #### Stage 5
 
